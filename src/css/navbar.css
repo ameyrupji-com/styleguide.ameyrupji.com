@@ -1,0 +1,56 @@
+.navbar.navbar-light{
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.2);
+
+}
+.navbar {
+    animation: fade-in 1s;
+    -moz-animation: fade-in 1s; /* Firefox */
+    -webkit-animation: fade-in 1s; /* Safari and Chrome */
+    -o-animation: fade-in 1s; /* Opera */
+  
+  }
+  
+.navbar, 
+.navbar.fixed-top,
+#image-back-main .title {
+animation: fade-in 1s;
+-moz-animation: fade-in 1s; /* Firefox */
+-webkit-animation: fade-in 1s; /* Safari and Chrome */
+-o-animation: fade-in 1s; /* Opera */
+}
+
+.navbar .navbar-toggler {
+color: rgba(255,255,255,.8);
+border: 0px;
+}
+
+.navbar.fixed-top {
+/* margin-top: 0px; */
+padding: 10px 18px;
+background: rgba(255, 255, 255, 0.7);
+-webkit-backdrop-filter: blur(30px);
+backdrop-filter: blur(30px);
+box-shadow: none;
+transition: all 5s;
+
+-webkit-transform: translateY(-20px);
+-ms-transform: translateY(-20px);
+transform: translateY(-20px);
+}
+
+.navbar.bg-transparent {
+background-color: transparent !important;
+}
+
+.navbar.bg-transparent .navbar-brand {
+color: #fff;
+font-weight: 100;
+}
+.navbar.bg-transparent .nav-item a {
+color: rgba(255,255,255,.8);
+font-weight: 100;
+}
+
+.navbar.bg-transparent .nav-item a:hover {
+color: rgba(255,255,255,1);
+}

@@ -1,0 +1,27 @@
+{
+    "first-name": "Amey",
+    "last-name": "Rupji",
+    "site-name": "Sytle Guide",
+    "links": [
+        {
+            "text": "Web",
+            "href": "#"
+        },
+        {
+            "text": "Email",
+            "href": "#"
+        },
+        {
+            "text": "App",
+            "href": "#"
+        },
+        {
+            "text": "Merchandise",
+            "href": "#"
+        },
+        {
+            "text": "Presentations",
+            "href": "#"
+        }
+    ]
+}
