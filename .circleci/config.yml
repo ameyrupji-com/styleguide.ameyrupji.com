@@ -156,4 +156,3 @@ workflows:
                 ignore: 
                   - master
                   - develop
-
