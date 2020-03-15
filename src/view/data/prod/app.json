@@ -3,5 +3,5 @@
     "app_url": "http://localhost:1234/",
     "icons_folder": "icons",
     "api_base_url": "https://api.ameyrupji.com",
-    "google_analytics_tracking_id": "UA-16933728-4"
+    "google_analytics_tracking_id": ""
 }
